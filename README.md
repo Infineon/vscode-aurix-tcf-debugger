@@ -24,6 +24,12 @@ VS Code extension for debugging Infineon AURIX&trade; devices. It supports all A
 - Peripheral Inspector extension (installed automatically as a dependency)
 - Memory Inspector extension (installed automatically as a dependency)
 
+## Connectivity and agent compatibility
+
+Plug-and-debug: AURIX&trade; boards can be debugged in seconds — just connect the board over USB and select the detected target.
+
+This extension uses the same TCF-based agent infrastructure used by AURIX&trade; Development Studio (ADS) and AURIX&trade; Configuration Studio (ACS). 
+
 ## Installation
 
 ### Install from VSIX
