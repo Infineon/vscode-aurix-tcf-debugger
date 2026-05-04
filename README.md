@@ -1,5 +1,7 @@
 # AURIX&trade; TCF Debugger for VS Code
 
+> **Note:** This extension is currently distributed as a pre-built VSIX package. We are evaluating whether to publish on the VS Code Marketplace and/or open-source the codebase in the future. Feedback and feature requests are welcome via [GitHub Issues](../../issues).
+
 VS Code extension for debugging Infineon AURIX&trade; devices. It supports all AURIX&trade; TC2x, TC3x, and TC4x microcontrollers. 
 
 ## Features
